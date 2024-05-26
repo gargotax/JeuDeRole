@@ -5,9 +5,11 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Hero hero = new Hero("Luke");
-            Ennemy ennemy = new Ennemy("Vador");
-            ennemy.NormalAttack(hero);
+
+            Jeu jeu = new Jeu();
+            jeu.Game();
+
+
 
         }
     }

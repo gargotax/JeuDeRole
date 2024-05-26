@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\hachemi\mestests\JeuDeRole\JeuDeRole\obj\Debug\net6.0\refint
 C:\Users\HP\Desktop\hachemi\mestests\JeuDeRole\JeuDeRole\obj\Debug\net6.0\JeuDeRole.pdb
 C:\Users\HP\Desktop\hachemi\mestests\JeuDeRole\JeuDeRole\obj\Debug\net6.0\JeuDeRole.genruntimeconfig.cache
 C:\Users\HP\Desktop\hachemi\mestests\JeuDeRole\JeuDeRole\obj\Debug\net6.0\ref\JeuDeRole.dll
+C:\Users\HP\Desktop\hachemi\mestests\JeuDeRole\JeuDeRole\obj\Debug\net6.0\JeuDeRole.sourcelink.json
